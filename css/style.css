@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Fredoka One', cursive;
+}
+body {
+    background: #A8C1C6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+table {
+    height: 60vmin;
+    width: 60vmin;
+}
+
+h1 {
+    color: white;
+}
+
+td {
+    height: 20vmin;
+    width: 20vmin;
+    text-align: center;
+    font-size: 65px
+
+}
+
+.replay {
+    height: 30px;
+    background: green;
+}
